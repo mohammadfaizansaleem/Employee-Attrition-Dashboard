@@ -9,8 +9,8 @@ Added new custom columns
 
 Throughout this project, I was able to apply my knowledge and skills of:
 
-Dataanalysis
-Data Interpretation
+Dataanalysis  
+Data Interpretation  
 Data Cleaning
 Graphs and Charts
 Data Visualization
