@@ -3,25 +3,25 @@ Here's my first interactive dashboard here, made on Microsoft Power BI Desktop, 
 
 Here are the steps I took to clean our data:
 
-Removed unnecessary columns  
-Cleaned some columns by splitting using a delimiter, replacing values, and changing data types  
-Added new custom columns
+◾Removed unnecessary columns  
+◾Cleaned some columns by splitting using a delimiter, replacing values, and changing data types  
+◾Added new custom columns
 
 Throughout this project, I was able to apply my knowledge and skills of:
 
-Dataanalysis  
-Data Interpretation  
-Data Cleaning  
-Graphs and Charts  
-Data Visualization  
-Analysis and Insights  
+◾Dataanalysis  
+◾Data Interpretation  
+◾Data Cleaning  
+◾Graphs and Charts  
+◾Data Visualization  
+◾Analysis and Insights  
 During this project, first I used Power Query Editor to do Data Manipulation and clean up required for the data visualization and then Power BI Visualization tool to create an impactful and visually appealing report
 Scope of the project:
 ◾ Reasons behind attrition
 ◾ KPIs supporting the story
 
 Project lessons:  
-Identified key factors of attribution
+Identified key factors of attribution  
 ◾ In terms of the education field, most attribution was from Life Science followed by Medical and Marketing.  
 ◾ The top 4 job roles in terms of attrition are Laboratory Technician, Sales Executive, Research Scientist, Sales Representative, and Human Resources.  
 ◾ Most of the employees left the organization after their first year.   
