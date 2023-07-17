@@ -17,7 +17,7 @@ Throughout this project, I was able to apply my knowledge and skills of:
 ◾Analysis and Insights  
 During this project, first I used Power Query Editor to do Data Manipulation and clean up required for the data visualization and then Power BI Visualization tool to create an impactful and visually appealing report  
   Scope of the project:  
-◾ Reasons behind attrition
+◾ Reasons behind attrition  
 ◾ KPIs supporting the story
 
 Project lessons:  
