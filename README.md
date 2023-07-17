@@ -3,10 +3,11 @@ Here's my first interactive dashboard here, made on Microsoft Power BI Desktop, 
 
 Here are the steps I took to clean our data:
 
-.Removed unnecessary columns
-.Cleaned some columns by splitting using a delimiter, replacing values, and changing data types
-.Added new custom columns
-.Throughout this project, I was able to apply my knowledge and skills of:
+Removed unnecessary columns
+Cleaned some columns by splitting using a delimiter, replacing values, and changing data types
+Added new custom columns
+
+Throughout this project, I was able to apply my knowledge and skills of:
 
 Dataanalysis
 Data Interpretation
