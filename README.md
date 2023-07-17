@@ -23,7 +23,7 @@ During this project, first I used Power Query Editor to do Data Manipulation and
 Project lessons:  
 Identified key factors of attribution  
 ◾ In terms of the education field, most attribution was from Life Science followed by Medical and Marketing.  
-◾ The top 4 job roles in terms of attrition are Laboratory Technician, Sales Executive, Research Scientist, Sales Representative, and Human Resources.  
+◾ The top 4 job roles in terms of attrition are Laboratory Technician, Sales Executive, Research Scientist, Sales Representative.  
 ◾ Most of the employees left the organization after their first year.   
 ◾ The people that left the organization had compensation of less than 5000.  
 ◾ Employees of the age bracket 26-35 Yrs are the ones that left the organization.   
