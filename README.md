@@ -1,3 +1,17 @@
 # Employee-Attrition-Dashboard
-A Power Bi dashboard that draws insights about the factors behind high attrition rate of  a company.
-A company currently employing 1480 employees has been recently facing high attrition rate .To investigate this issue HR analytics dashboard was created to find the problems behind the high attrition rate 
+Here's my first interactive dashboard here, made on Microsoft Power BI Desktop, but before jumping to the visualization part, we cleaned data using Power Query Editor.
+
+Here are the steps I took to clean our data:
+
+Removed unnecessary columns
+Cleaned some columns by splitting using a delimiter, replacing values, and changing data types
+Added new custom columns
+Throughout this project, I was able to apply my knowledge and skills of:
+
+Dataanalysis
+Data Interpretation
+Data Cleaning
+Graphs and Charts
+Data Visualization
+Analysis and Insights
+During this project, first I used Power Query Editor to do Data Manipulation and clean up required for the data visualization and then Power BI Visualization tool to create an impactful and visually appealing report, 
